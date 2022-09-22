@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    z-index: 200;
+}
+ul{
+    list-style: none;
+    margin: -30px;
+    padding: 20px;
+    margin-left: 180px;
+}
+a {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    color: aliceblue;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(220, 216, 168);
+}
+li{
+    display: inline;
+}
+.logo-img{
+    position: absolute;
+      height: 75px;
+      left: 150px;
+      top: 4px;
+      padding: 4px;
+}
+.mybody {
+    background: url(images/coteg.png) no-repeat center center fixed;
+}
+.main_block{
+    background: rgb(255, 254, 251);
+    opacity: 0.9;
+}
+.font{
+    font-family: 'Courier New', Courier, monospace;
+}
